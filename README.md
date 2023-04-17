@@ -1,5 +1,5 @@
 # About Me
-This is a simple HTML page that introduces me, SamAddy, an engineer who loves the Bible, technology, and nature. The page contains several sections, including an introduction, a section about my projects, a section for some of my favorite quotes and a contact information. The page is served [here](https://github.com/SamAddy/the-anchor-man/blob/main/anchor.jpg?raw=true).
+This is a simple HTML page that introduces me, SamAddy, an engineer who loves the Bible, technology, and nature. The page contains several sections, including an introduction, a section about my projects, a section for some of my favorite quotes and a contact information. The page is served [here](https://samaddy.github.io/learn/semantic.html).
 
 ## Table of Comtent
 * [Technologies](#technologies)
