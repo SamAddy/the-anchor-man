@@ -1,5 +1,5 @@
 # About Me
-This is a simple HTML page that introduces me, SamAddy, an engineer who loves the Bible, technology, and nature. The page contains several sections, including an introduction, a section about my projects, a section for some of my favorite quotes and a contact information. 
+This is a simple HTML page that introduces me, SamAddy, an engineer who loves the Bible, technology, and nature. The page contains several sections, including an introduction, a section about my projects, a section for some of my favorite quotes and a contact information. The page is served [here](https://github.com/SamAddy/the-anchor-man/blob/main/anchor.jpg?raw=true).
 
 ## Table of Comtent
 * [Technologies](#technologies)
@@ -20,5 +20,6 @@ In addition to using semantic HTML, I also tried to make the webpage visually ap
 Feel free to use this code as a starting point for your own personal webpage, and don't forget to experiment with different HTML elements and WAI-ARIA attributes to make your content more accessible!
 
 ## Project Structure
+
 
 
