@@ -20,6 +20,14 @@ In addition to using semantic HTML, I also tried to make the webpage visually ap
 Feel free to use this code as a starting point for your own personal webpage, and don't forget to experiment with different HTML elements and WAI-ARIA attributes to make your content more accessible!
 
 ## Project Structure
-
+```
+.
+    .gitignore
+    anchor.jpg
+    index.html
+    README.md
+    task.md
+    test.xls
+```
 
 
